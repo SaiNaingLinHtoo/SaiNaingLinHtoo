@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently working on software engnieering
+
+![laravel](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png)
+
+Thanks for visiting!
 
 <!--
 **SaiNaingLinHtoo/SaiNaingLinHtoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
