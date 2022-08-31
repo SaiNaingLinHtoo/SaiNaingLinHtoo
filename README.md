@@ -1,5 +1,7 @@
-### Hola 👋, I am Sai Naing Lin Htoo
-- 🔭 I’m currently working on software engnieering
+### Hola 👋, I’m Sai Naing Lin Htoo
+
+- 🔭 I’m currently working on Software Engnieering.
+- 🎗️ I have more than 4 years of experiences in Software Development.
 
 ## Skills
 <div>
